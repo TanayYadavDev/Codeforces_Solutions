@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 13 |
+| 49 | 13 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (37)
-- [math](#math) (11)
+- [math](#math) (12)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (10)
@@ -139,6 +139,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/TanayYadavDev/Codeforces_Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/TanayYadavDev/Codeforces_Solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/TanayYadavDev/Codeforces_Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/TanayYadavDev/Codeforces_Solutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/TanayYadavDev/Codeforces_Solutions/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/TanayYadavDev/Codeforces_Solutions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/TanayYadavDev/Codeforces_Solutions/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.cpp) |
